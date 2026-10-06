@@ -5,7 +5,7 @@
 
 ## 🔗 Link Utili
 * 🚀 **Prototipo Interattivo:** [Prova il prototipo qui] (https://sorteat-high-fidelity.vercel.app)
-
+* * 📊 **Presentazione del Progetto:** [Visualizza su Canva](https://canva.link/u6moeqfbm7ipc70)
 ---
 
 ## 📂 Struttura del Repository
